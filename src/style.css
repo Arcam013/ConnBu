@@ -1,0 +1,16 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+:root {
+	--md-ref-typeface-brand: 'Noto Sans';
+	--md-ref-typeface-plain: sans-serif;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+    }
