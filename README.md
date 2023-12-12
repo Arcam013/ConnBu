@@ -9,7 +9,7 @@ ConnBu uses various dependencies on server-side and client-side. Those are
 By the both sides, ConnBu uses modules of Node.js. You need to have Node.js 20 LTS. The modules used by ConnBu are:
 + **Material Design for Web:** Is used by UI and UX. To install you would use `npm install @material/web --save`. Visit the [Material Design for Web repository](https://github.com/material-components/material-web) to read all the documentation tah you could need.
 
->[!IMPORTANT]
+>[!NOTE]
 >Instead inert the icon name into `<md-icon>` tag, insert the Material Icon syntax to insert an icon, at least you need to use that tag to insert icons on specific sites.
 
 + **Webpack:** Used as node interpreter, to _compile_ Material Design. To install you would use `npm install webpack --save`
